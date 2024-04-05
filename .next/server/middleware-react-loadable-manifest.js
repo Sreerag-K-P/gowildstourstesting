@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"index-3.jsx -> @/src/components/Counter":{id:4339,files:["static/chunks/339.e0a091d8b3ca1fda.js"]},"index-4.jsx -> @/src/components/Counter":{id:4339,files:["static/chunks/339.e0a091d8b3ca1fda.js"]},"index.jsx -> @/src/components/Counter":{id:4339,files:["static/chunks/339.e0a091d8b3ca1fda.js"]}};
